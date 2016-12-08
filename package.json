@@ -1,7 +1,7 @@
 {
   "name": "react-edit-inline",
   "version": "1.0.8",
-  "description": "A simple inline text editor for React with ECMAScript 6 + JSX Harmony syntax",
+  "description": "A simple inline text editor for React with ECMAScript 6 + JSX Harmony syntax, edited by VDZ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kaivi/ReactInlineEdit.git"
+    "url": "git+https://github.com/vdz/ReactInlineEdit.git"
   },
   "keywords": [
     "react",
